@@ -4,3 +4,4 @@
 - ローカルリポで変更
 - rebase-practiceブランチで更新(rebeseコンフリクト用)
 - rebase pull
+- git pull 練習
