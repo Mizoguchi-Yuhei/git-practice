@@ -5,3 +5,5 @@
 - rebase-practiceブランチで更新(rebeseコンフリクト用)
 - rebase pull
 - git pull 練習
+- practice2にpull
+- 
