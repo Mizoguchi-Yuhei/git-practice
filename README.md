@@ -5,3 +5,4 @@
 - rebase-practiceブランチで更新(rebeseコンフリクト用)
 - rebase pull
 stash 練習(2nd)
+for v.1.1
